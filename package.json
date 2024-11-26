@@ -15,7 +15,7 @@
   },
   "name": "rablonkk-ytcr",
   "description": "Youtube cookier can help you get cookies and headers from youtube easily.\r In that way, you can bypass those annoying 429 Errors from ytdl.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
