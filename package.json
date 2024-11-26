@@ -13,7 +13,7 @@
     "eslint-plugin-n": "^17.14.0",
     "eslint-plugin-promise": "^7.2.0"
   },
-  "name": "@rablonkk/ytcr",
+  "name": "rablonkk-ytcr",
   "description": "Youtube cookier can help you get cookies and headers from youtube easily.\r In that way, you can bypass those annoying 429 Errors from ytdl.",
   "version": "0.0.1",
   "main": "index.js",
