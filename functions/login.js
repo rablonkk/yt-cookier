@@ -162,7 +162,7 @@ module.exports = {
         )
         await page.close()
         return 'failed'
-      } else if (url.startsWith('https://www.youtube.com/')) {
+      } else if (uri.startsWith('https://www.youtube.com/')) {
         console.log('[ytcr] Successfully logged in!')
 
         const PageCookies = await page.cookies()
