@@ -4,7 +4,7 @@ In that way, you can bypass those annoying 429 Errors from ytdl.
 
 Usage:
 ```js
-const ytcr = require("rablonkk-ytcr");
+const ytcr = require("@rablonkk/ytcr");
 
 const start = async () => {
   const browser = await ytcr.getBrowser({
@@ -40,7 +40,7 @@ start()
 
 Using with [ytdl-core](https://www.npmjs.com/package/ytdl-core)
 ```js
-const ytcr = require("rablonkk-ytcr");
+const ytcr = require("@rablonkk/ytcr");
 
 const fs = require("node:fs");
 const ytdl = require("ytdl-core");
